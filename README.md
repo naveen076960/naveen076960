@@ -3,7 +3,7 @@
 Passionate about building scalable web and mobile applications that solve real-world problems. Love turning ideas into code and collaborating on innovative projects.
 
 💡 Tech Stack:
-Languages: Java, JavaScript, Python*Frontend: React, React Native, HTML/CSS*Backend: Node.js,Firebase*Mobile: Android*DevOps & Tools:Git, Firebase
+Languages: Java, JavaScript, Python*Frontend: React, React Native, HTML/CSS*Backend: Node.js
 
 🌱 Currently Exploring:
 Advance android and web developing,UI/UX Design Principles
