@@ -22,7 +22,7 @@
     <td align="center" valign="middle">
       <a href="https://github.com/Dum1du/StudyMate">
         <img src="https://raw.githubusercontent.com/Dum1du/StudyMate/main/src/assets/logo.png" height="110" alt="StudyMate Logo" style="vertical-align: middle; margin-right: 10px;" />
-      </a>
+      </a><br>
       <a href="https://github.com/Dum1du/StudyMate">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dum1du&repo=StudyMate&theme=tokyonight&hide_border=true" height="110" style="vertical-align: middle;" />
       </a>
@@ -35,6 +35,19 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=naveen076960&repo=3d-portfolio&theme=tokyonight&hide_border=true" height="110" style="vertical-align: middle;" />
       </a>
     </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/naveen076960/kinetown">
+        <img src="https://raw.githubusercontent.com/naveen076960/kinetown/main/src/assets/cowboyLogoTXT.png" height="80" width="auto" alt="Kinetown Logo" style="vertical-align: middle; margin-right: 10px;" />
+      </a>
+      <a href="https://github.com/naveen076960/kinetown">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=naveen076960&repo=kinetown&theme=tokyonight&hide_border=true" height="110" style="vertical-align: middle;" />
+      </a>
+    </td>
+    
+  <td align="center" valign="middle"></td>
   </tr>
 </table>
 
