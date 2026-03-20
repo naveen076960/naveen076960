@@ -9,7 +9,7 @@
 ---
 
 ### 💫 About Me
-- 🔭 **Currently Learning:** C Advanced Android Development, WebSocket-based Real-Time Applications.
+- 🔭 **Currently Learning:** Advanced Android Development, WebSocket-based Real-Time Applications.
 - ⚡ **Fun Fact:** When I'm not coding, I'm probably playing my guitar or riding my motorcycle through Kandy.
 - 📺 **Content:** Check out my tech tutorials on **"ICT with Naveen"**.
 
@@ -17,14 +17,26 @@
 
 ### 🔥 My Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Dum1du/StudyMate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dum1du&repo=StudyMate&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/naveen076960/3d-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naveen076960&repo=3d-portfolio&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</p>
+<table align="center" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Dum1du/StudyMate">
+        <img src="https://raw.githubusercontent.com/Dum1du/StudyMate/main/src/assets/logo.png" height="110" alt="StudyMate Logo" style="vertical-align: middle; margin-right: 10px;" />
+      </a>
+      <a href="https://github.com/Dum1du/StudyMate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dum1du&repo=StudyMate&theme=tokyonight&hide_border=true" height="110" style="vertical-align: middle;" />
+      </a>
+    </td>
+<td align="center" valign="middle">
+      <a href="https://github.com/naveen076960/3d-portfolio">
+        <img src="https://raw.githubusercontent.com/naveen076960/3d-portfolio/main/src/assets/logo.png" height="110" alt="3D Portfolio Logo" style="vertical-align: middle; margin-right: 10px;" />
+      </a>
+      <a href="https://github.com/naveen076960/3d-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=naveen076960&repo=3d-portfolio&theme=tokyonight&hide_border=true" height="110" style="vertical-align: middle;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 💻 Tech Universe
 
@@ -51,9 +63,9 @@
 ### 🌐 Let's Connect!
 
 <p align="left">
-<a href="https://linkedin.com/in/naveen-oshada-9747a92b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naveen-oshada-9747a92b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:naveenoshada15@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="30" /></a>
-<a href="INSERT_YOUR_PORTFOLIO_LINK_HERE" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Portfolio" height="30" width="30" /></a>
+<a href="https://naveenoshada.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Portfolio" height="30" width="30" /></a>
 </p>
 
 <br>
