@@ -71,5 +71,5 @@
 <br>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=naveen076960&icon=5&color=1" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=naveen076960&color=31A8FF&style=flat-square&label=VISITORS" alt="visitor count" />
 </p>
